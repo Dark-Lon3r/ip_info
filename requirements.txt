@@ -2,5 +2,3 @@ requests
 wget
 pyfiglet
 folium
-sys
-
