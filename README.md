@@ -1,4 +1,7 @@
 # ip_info
+
+![dark](https://user-images.githubusercontent.com/101978739/159172621-d7a0c420-dae0-40d3-82e0-ede39a4138ec.PNG)
+
 Простенький скрипт на Python для пробива по IP
 
 Чтобы использовать скрипт, введите в Termux следующие команды:
